@@ -1,0 +1,1 @@
+# obeliskagi.bootstrappers.resource-csharp
