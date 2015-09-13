@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Resources;
 
-namespace Obelisk.Agi.Bootstrappers.Resouce
+namespace Obelisk.Agi.Bootstrappers.Resource
 {
     /// <summary>
     /// Represents a bootstrapper that will load all resources with specific keys
