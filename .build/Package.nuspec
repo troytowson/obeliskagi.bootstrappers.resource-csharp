@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Obelisk.Agi.Bootstrappers.Resource</id>
-    <version>0.0.1-alpha</version>
+    <version>0.0.2-alpha</version>
     <authors>troytowson</authors>
     <owners>troytowson</owners>
     <licenseUrl>https://github.com/troytowson/obeliskagi.bootstrappers.resource-csharp/blob/master/LICENSE</licenseUrl>
@@ -12,7 +12,7 @@
     <copyright>Copyright 2015</copyright>
     <tags>Obelisk.Agi.Bootstrappers.Resource</tags>
     <dependencies>
-      <dependency id="Obelisk.Agi" version="0.0.1" />
+      <dependency id="Obelisk.Agi" version="0.0.1-alpha" />
       <dependency id="Structuremap" version="3.1.6" />
     </dependencies>
     </metadata>
